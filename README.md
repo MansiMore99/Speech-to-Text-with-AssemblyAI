@@ -11,7 +11,7 @@
 - AssemblyAI API Key (Sign up at [AssemblyAI](https://www.assemblyai.com/))
 
 1. Install the required dependencies:
-2. ```
+   ```
      pip install pyaudio websockets asyncio
    ```
 
