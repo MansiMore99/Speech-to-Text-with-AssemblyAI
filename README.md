@@ -11,13 +11,13 @@
 - AssemblyAI API Key (Sign up at [AssemblyAI](https://www.assemblyai.com/))
 
 1. Install the required dependencies:
-  ```
-    pip install pyaudio websockets asyncio
-  ```
+2. ```
+     pip install pyaudio websockets asyncio
+   ```
 
 2. For Mac users, if you encounter an error related to portaudio, install it with:
    ```
-     brew install portaudi
+     brew install portaudio
    ```
    
 ### Getting Your AssemblyAI API Key:
