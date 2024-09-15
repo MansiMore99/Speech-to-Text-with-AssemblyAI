@@ -1,4 +1,4 @@
-## Speech-to-Text-with-AssemblyAI
+## Speech-to-Text-with-AssemblyAI using microphone
 
 
 ### Features
